@@ -1,3 +1,7 @@
-class book
+class Book
+  
+  def initialize(title)
+  end
+  
 end
 
