@@ -15,4 +15,6 @@ class Shoe
     @color
   end
   
+  
+  
 end
